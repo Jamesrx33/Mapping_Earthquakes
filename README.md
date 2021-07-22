@@ -1,4 +1,4 @@
-# **<p align="center">MApping Earthquakes</p>**
+# **<p align="center">Mapping Earthquakes</p>**
 
 ### **<p align="center">A Javascript and HTML powered Webpage designed to display Earthquake data.</p>**
 
